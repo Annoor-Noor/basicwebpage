@@ -427,6 +427,8 @@ th {
 }
 
 /* LAYOUT STYLES */
+/* This is going to be homework:what color is  (../images/body-bg.jpg)? Write the color is in a comment  */
+
 body {
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 15px;
@@ -447,6 +449,7 @@ a:hover {
   color: #2268b2;
 }
 
+/* Homework: which font from the font-family is displayed on the website? */
 header {
   padding-top: 40px;
   padding-bottom: 40px;
@@ -454,6 +457,9 @@ header {
   background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
   border-bottom: solid 1px #275da1;
 }
+
+/* Homework: add your name to the webpage along with your email address */
+
 
 header h1 {
   width: 540px;
