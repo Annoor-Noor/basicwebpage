@@ -428,7 +428,7 @@ th {
 
 /* LAYOUT STYLES */
 /* This is going to be homework:what color is  (../images/body-bg.jpg)? Write the color is in a comment  */
-
+/* The color #fafafa is a white shadowy color. Specifically: rgb(250, 250, 250) hsl(0, 0%, 98%) */
 body {
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 15px;
@@ -450,6 +450,7 @@ a:hover {
 }
 
 /* Homework: which font from the font-family is displayed on the website? */
+/* font-family is Architects daughter */
 header {
   padding-top: 40px;
   padding-bottom: 40px;
@@ -459,6 +460,9 @@ header {
 }
 
 /* Homework: add your name to the webpage along with your email address */
+
+<h1><ins>Melanie Tran</ins></h1>
+<a href="mailto: Tran.Melanie@Ymail.com" class="links"> Tran.Melanie@Ymail.com</a>
 
 
 header h1 {
