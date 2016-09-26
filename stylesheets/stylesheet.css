@@ -12,10 +12,6 @@ html {
   -ms-text-size-adjust: 100%; /* 2 */
 }
 
-<h1><ins>Melanie Tran</ins></h1>
-<a href="mailto: Tran.Melanie@Ymail.com" class="links"> Tran.Melanie@Ymail.com</a>
-
-
 
 /**
  * Remove default margin.
@@ -433,7 +429,7 @@ th {
 
 /* LAYOUT STYLES */
 /* This is going to be homework:what color is  (../images/body-bg.jpg)? Write the color is in a comment  */
-/* The color #fafafa is a white shadowy color. Specifically: rgb(250, 250, 250) hsl(0, 0%, 98%) */
+/* The color #fafafa is a white shadowy color. Specifically: rgb(250, 250, 250) hsl(0, 0%, 98%). This info can also be in images folder */
 body {
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 15px;
@@ -457,9 +453,11 @@ a {
 a:hover {
   color: #2268b2;
 }
-
 /* Homework: which font from the font-family is displayed on the website? */
-/* font-family is Sans-serif */
+/* font-family is 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; */
+
+/* Homework: add your name to the webpage along with your email address */
+
 
 header {
   padding-top: 40px;
@@ -468,8 +466,6 @@ header {
   background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
   border-bottom: solid 1px #275da1;
 }
-
-/* Homework: add your name to the webpage along with your email address */
 
 
 header h1 {
